@@ -1,4 +1,4 @@
-module github.com/lichao-mobanche/bloom-filter-redis
+module github.com/Fngg/bloom_filter_redis
 
 go 1.13
 
